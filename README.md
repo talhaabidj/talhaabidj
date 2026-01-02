@@ -1,5 +1,5 @@
 # About Me:
-Undergraduate BS AI student at UCP with hands-on experience in Python, C/C++, and assembly. Passionate about machine learning, deep learning, and quantum computing; active in hackathons and community events (Qiskit Fall Fest 2025, Qubic Hack the Future). Certified in AI (Udemy: Artificial Intelligence A-Z 2025) and Multicloud Network Associate (Aviatrix). Skilled across LLMs, reinforcement learning, AWS/Oracle cloud networking, and problem solving. Solved 500+ HackerRank problems.
+Undergraduate BS AI student at University of Central Punjab with hands-on experience in Python, C/C++, and assembly. Passionate about machine learning, deep learning, and quantum computing; active participant in international hackathons including Qubic Hack the Future and Qiskit Fall Fest 2025. Certified in AI (Udemy: Artificial Intelligence A-Z 2025) and Multicloud Network Associate (Aviatrix). Skilled across LLMs, reinforcement learning, AWS/Oracle cloud networking, and problem solving. Solved 500+ HackerRank problems.
 
 
 ## Socials:
