@@ -12,3 +12,4 @@ Undergraduate BS AI student at University of Central Punjab with hands-on experi
 ![](https://github-readme-stats.vercel.app/api?username=talhaabidj&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=talhaabidj&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaabidj&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
