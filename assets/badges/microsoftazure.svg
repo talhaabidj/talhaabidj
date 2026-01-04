@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.5" height="28" viewBox="0 0 79.5 28">
+  <rect width="79.5" height="28" rx="4" fill="#0078D4" />
+  <g transform="translate(10, 6.0)">
+    <svg width="16" height="16" fill="white" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/></svg>
+  </g>
+  <text x="32" y="18.0" font-family="Verdana, Geneva, sans-serif" font-size="11" fill="white" font-weight="bold">Azure</text>
+</svg>
