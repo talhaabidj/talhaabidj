@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87.0" height="28" viewBox="0 0 87.0 28">
+  <defs>
+    
+    <linearGradient id="plastic-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.7" />
+      <stop offset="5%" stop-color="#fff" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#000" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="0.5" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    
+  </defs>
+  
+  <!-- Background Color -->
+  <rect width="87.0" height="28" rx="4" fill="#3F4F75" />
+  
+  <!-- Plastic Gradient Overlay -->
+  <rect width="87.0" height="28" rx="4" fill="url(#plastic-gradient)" />
+  
+  <!-- Content with Shadow -->
+  <g filter="url(#shadow)">
+      <g transform="translate(10, 6.0)">
+    <svg width="16" height="16" fill="white" fill="#7A76FF" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Plotly</title><path d="M1.713.002A1.713 1.713 0 0 0 0 1.715a1.713 1.713 0 0 0 1.713 1.713 1.713 1.713 0 0 0 1.714-1.713A1.713 1.713 0 0 0 1.713.002Zm6.861 0a1.713 1.713 0 0 0-1.713 1.713 1.713 1.713 0 0 0 1.713 1.713 1.713 1.713 0 0 0 1.713-1.713A1.713 1.713 0 0 0 8.574.002Zm6.857 0a1.713 1.713 0 0 0-1.714 1.713 1.713 1.713 0 0 0 1.714 1.713 1.713 1.713 0 0 0 1.713-1.713A1.713 1.713 0 0 0 15.431.002zm6.856 0a1.713 1.713 0 0 0-1.713 1.713 1.713 1.713 0 0 0 1.713 1.713A1.713 1.713 0 0 0 24 1.715 1.713 1.713 0 0 0 22.287.002ZM1.713 6.859A1.713 1.713 0 0 0 0 8.572a1.713 1.713 0 0 0 1.713 1.713 1.713 1.713 0 0 0 1.714-1.713A1.713 1.713 0 0 0 1.713 6.86Zm6.861 0c-.948 0-1.713.765-1.713 1.713v13.713c0 .947.765 1.713 1.713 1.713.948 0 1.713-.766 1.713-1.713V8.572c0-.948-.765-1.713-1.713-1.713zm6.857 0a1.713 1.713 0 0 0-1.714 1.713 1.713 1.713 0 0 0 1.714 1.713 1.713 1.713 0 0 0 1.713-1.713 1.713 1.713 0 0 0-1.713-1.713zm6.856 0c-.947 0-1.713.765-1.713 1.713v13.713c0 .947.766 1.713 1.713 1.713.948 0 1.713-.766 1.713-1.713V8.572c0-.948-.765-1.713-1.713-1.713zM1.713 13.715C.766 13.715 0 14.48 0 15.428v6.857c0 .947.766 1.713 1.713 1.713.948 0 1.714-.766 1.714-1.713v-6.857c0-.948-.766-1.713-1.714-1.713zm13.718 0c-.948 0-1.714.765-1.714 1.713v6.857c0 .947.766 1.713 1.714 1.713.947 0 1.713-.766 1.713-1.713v-6.857c0-.948-.766-1.713-1.713-1.713z"/></svg>
+  </g>
+      <text x="32" y="18.0" font-family="Verdana, Geneva, sans-serif" font-size="11" fill="white" font-weight="bold" text-anchor="start">Plotly</text>
+  </g>
+</svg>
