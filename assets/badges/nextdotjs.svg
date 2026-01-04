@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94.5" height="28" viewBox="0 0 94.5 28">
+  <defs>
+    
+    <linearGradient id="plastic-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.7" />
+      <stop offset="5%" stop-color="#fff" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#000" stop-opacity="0.2" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="0.5" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+    
+  </defs>
+  
+  <!-- Background Color -->
+  <rect width="94.5" height="28" rx="4" fill="black" />
+  
+  <!-- Plastic Gradient Overlay -->
+  <rect width="94.5" height="28" rx="4" fill="url(#plastic-gradient)" />
+  
+  <!-- Content with Shadow -->
+  <g filter="url(#shadow)">
+      <g transform="translate(10, 6.0)">
+    <svg width="16" height="16" fill="white" fill="#000000" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Next.js</title><path d="M18.665 21.978C16.758 23.255 14.465 24 12 24 5.377 24 0 18.623 0 12S5.377 0 12 0s12 5.377 12 12c0 3.583-1.574 6.801-4.067 9.001L9.219 7.2H7.2v9.596h1.615V9.251l9.85 12.727Zm-3.332-8.533 1.6 2.061V7.2h-1.6v6.245Z"/></svg>
+  </g>
+      <text x="32" y="18.0" font-family="Verdana, Geneva, sans-serif" font-size="11" fill="white" font-weight="bold" text-anchor="start">Next.js</text>
+  </g>
+</svg>
