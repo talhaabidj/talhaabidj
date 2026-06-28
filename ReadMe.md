@@ -8,12 +8,12 @@ I work mostly with **Python**, **C/C++**, and a bit of **assembly**, and I enjoy
 - **AquaLens** – Autonomous freshwater monitoring agent using Gemini multi‑agent workflows and **Sentinel‑2** satellite imagery to score and explain water‑quality risk. Backend in **FastAPI + PostgreSQL (PostGIS + pgvector)**, frontend in **Next.js + TypeScript + Tailwind**, deployed on **Vercel**.  
   → Won **3rd place (Gemini Award)** and **$2,000 prize** at lablab.ai’s global “Transforming Enterprise Through AI” hackathon.
 
-- Other projects include: **Catchapon**, **IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG), **ActionPilot** (AI meeting execution agent), **Qubic Sentinel** (blockchain monitoring), **Trashé** (Azure IoT SmartBin), **Lightning Network**‑enabled vending machine, **UCP Smart Odoo Portal** Chrome extension, **PavaLang** interpreter, and more.
+- Other projects include: **Catchapon**, **IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG), **ActionPilot** (AI meeting execution agent), **Qubic Sentinel** (blockchain monitoring), **Trashé** (Azure IoT SmartBin), **UCP Smart Odoo Portal** Chrome extension, **PavaLang** interpreter, and more.
 
 **Competitions & hackathons**
 
 - **3rd place, $2,000 prize – lablab.ai “Transforming Enterprise Through AI”** (AquaLens, Gemini multi‑agent + Sentinel‑2).
-- **USAII Global AI Hackathon 2026 – Team Labaik**.
+- **USAII Global AI Hackathon 2026 – IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG).
 - **Qubic “Hack the Future”** – blockchain/AI hackathon.
 - **Qiskit Fall Fest 2025** – quantum computing marathon with IBM Quantum.
 - **Harvard CS50x Puzzle Day 2026** – solved all puzzles.
@@ -36,8 +36,6 @@ I work mostly with **Python**, **C/C++**, and a bit of **assembly**, and I enjoy
 Outside of code, I’m into **sketching and graphite art** (`graphitegrazer` on Instagram). That visual mindset helps me design systems, debug pipelines, and explain complex ideas in a more intuitive, visual way.
 
 Most of my recent work lives in my pinned repositories — especially AquaLens and other AI‑native, full‑stack projects.
-
-
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talhaabidj1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaabidj) 
