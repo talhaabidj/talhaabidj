@@ -1,5 +1,42 @@
 # About Me:
-Undergraduate BS AI student at University of Central Punjab with hands-on experience in Python, C/C++, and assembly. Passionate about machine learning, deep learning, and quantum computing; active participant in international hackathons including Qubic Hack the Future and Qiskit Fall Fest 2025. Certified in AI (Udemy: Artificial Intelligence A-Z 2025) and Multicloud Network Associate (Aviatrix). Skilled across LLMs, reinforcement learning, AWS/Oracle cloud networking, and problem solving. Solved 500+ HackerRank problems.
+Hi, I’m **Talha Abid** (`talhaabidj`) — an undergraduate BS Artificial Intelligence student at the University of Central Punjab (UCP), Lahore, focused on building real, end‑to‑end AI products, not just class assignments.
+
+I work mostly with **Python**, **C/C++**, and a bit of **assembly**, and I enjoy moving across the full stack: from data pipelines, LLM/agent workflows, and geospatial analysis to clean, usable frontends.
+
+**What I’ve built / shipped**
+
+- **AquaLens** – Autonomous freshwater monitoring agent using Gemini multi‑agent workflows and **Sentinel‑2** satellite imagery to score and explain water‑quality risk. Backend in **FastAPI + PostgreSQL (PostGIS + pgvector)**, frontend in **Next.js + TypeScript + Tailwind**, deployed on **Vercel**.  
+  → Won **3rd place (Gemini Award)** and **$2,000 prize** at lablab.ai’s global “Transforming Enterprise Through AI” hackathon.
+
+- Other projects include: **Catchapon**, **IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG), **ActionPilot** (AI meeting execution agent), **Qubic Sentinel** (blockchain monitoring), **Trashé** (Azure IoT SmartBin), **Lightning Network**‑enabled vending machine, **UCP Smart Odoo Portal** Chrome extension, **PavaLang** interpreter, and more.
+
+**Competitions & hackathons**
+
+- **3rd place, $2,000 prize – lablab.ai “Transforming Enterprise Through AI”** (AquaLens, Gemini multi‑agent + Sentinel‑2).
+- **USAII Global AI Hackathon 2026 – Team Labaik**.
+- **Qubic “Hack the Future”** – blockchain/AI hackathon.
+- **Qiskit Fall Fest 2025** – quantum computing marathon with IBM Quantum.
+- **Harvard CS50x Puzzle Day 2026** – solved all puzzles.
+- Various AI and coding challenges on **HackerRank**, **Devpost**, and other platforms.
+
+**Skills & interests**
+
+- **AI/ML:** machine learning, deep learning, LLMs, reinforcement learning, prompt engineering, AI agents.
+- **Geospatial & remote sensing:** working with satellite imagery (Sentinel‑2), PostGIS, and spatial analysis.
+- **Full‑stack:** FastAPI / Node, Next.js/React, Tailwind, PostgreSQL, MongoDB, Supabase; deploying on **Vercel**, **Render**, and cloud platforms.
+- **Cloud & networking:** AWS/Oracle cloud networking, multicloud concepts.
+- **Low‑level/problem‑solving:** C/C++, assembly, algorithms, competitive programming.
+
+**Certifications & stats**
+
+- **Aviatrix Certified Engineer – Multicloud Network Associate**.
+- **Artificial Intelligence A‑Z 2025** (Udemy) and multiple AI/prompt‑engineering related credentials.
+- **HackerRank**: Problem Solving & Python certificates; **500+ problems solved** across categories.
+
+Outside of code, I’m into **sketching and graphite art** (`graphitegrazer` on Instagram). That visual mindset helps me design systems, debug pipelines, and explain complex ideas in a more intuitive, visual way.
+
+Most of my recent work lives in my pinned repositories — especially AquaLens and other AI‑native, full‑stack projects.
+
 
 
 ## Socials:
