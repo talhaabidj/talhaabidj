@@ -8,7 +8,7 @@ I work mostly with **Python**, **C/C++**, and a bit of **assembly**, and I enjoy
 - **AquaLens** – Autonomous freshwater monitoring agent using Gemini multi‑agent workflows and **Sentinel‑2** satellite imagery to score and explain water‑quality risk. Backend in **FastAPI + PostgreSQL (PostGIS + pgvector)**, frontend in **Next.js + TypeScript + Tailwind**, deployed on **Vercel**.  
   → Won **3rd place (Gemini Award)** and **$2,000 prize** at lablab.ai’s global “Transforming Enterprise Through AI” hackathon.
 
-- Other projects include: **Catchapon**, **IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG), **ActionPilot** (AI meeting execution agent), **Qubic Sentinel** (blockchain monitoring), **UCP Smart Odoo Portal** Chrome extension, **PavaLang** interpreter, and more.
+- Other projects include: **Catchapon**, **IdeaForge** (AI idea‑to‑action tool with multi‑agent + RAG), **UCP Smart Odoo Portal** Chrome extension, **PavaLang** interpreter, **Qubic Sentinel** (blockchain monitoring) and more.
 
 **Competitions & hackathons**
 
