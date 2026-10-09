@@ -10,7 +10,6 @@ I build games and AI apps, and I ship them.
 - **[Pawpon](https://pawpon.app)** ([Google Play](https://play.google.com/store/apps/details?id=com.pawpon)): a cozy first-person cat-collecting game for Android, live on Google Play since October 2026. Built in Godot with an offline Blender (Python API) pipeline where code generates every 3D model and sound, RevenueCat in-app purchases and store pages in 17 languages. Ludilume Studios' first game.
 - **[AquaLens](https://github.com/talhaabidj/aqualens)** ([demo](https://aqua-lens-ai.vercel.app/)): an autonomous freshwater-monitoring agent that reads Sentinel-2 satellite imagery, computes a deterministic 0-100 risk score and explains it with a multi-agent workflow. FastAPI, PostgreSQL (PostGIS, pgvector), Next.js. **3rd place and the $2,000 Gemini Award** out of 291 submissions.
 - **[IdeaForge](https://github.com/talhaabidj/ideaforge)** ([demo](https://ideaforge-agent.vercel.app/)): a four-agent idea-to-action app, built for the USAII Global AI Hackathon 2026 (finalist).
-- **[Catchapon](https://github.com/talhaabidj/catchapon)** ([play](https://catchapon.vercel.app/)): a 3D first-person browser game in Three.js/WebGL2.
 - **[UCP Smart Odoo Portal](https://chromewebstore.google.com/detail/ucp-smart-odoo-portal/ebmcimlgnnbkomlabkhijkblmchjifid)**: a Chrome extension used by 400+ students, rated 4.9/5.
 
 ### Recognition
