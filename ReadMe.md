@@ -1,7 +1,7 @@
 # Talha Abid (talhaabidj)
 
 **Founder of [Ludilume Studios](https://www.linkedin.com/company/ludilume/) · AI engineer & game developer**
-🥉 3rd place, $2,000 Gemini Award at lablab.ai's *Transforming Enterprise Through AI* hackathon · USAII Global AI Hackathon 2026 finalist · shipped **[Pawpon](https://pawpon.app)** on Google Play
+🥉 3rd place, $2,000 Gemini Award at lablab.build's *Transforming Enterprise Through AI* hackathon · USAII Global AI Hackathon 2026 finalist · shipped **[Pawpon](https://pawpon.app)** on Google Play
 
 I build games and AI apps, and I ship them.
 
@@ -14,7 +14,7 @@ I build games and AI apps, and I ship them.
 
 ### Recognition
 
-- 🥉 **3rd place, $2,000 Gemini Award**, lablab.ai *Transforming Enterprise Through AI* (AquaLens)
+- 🥉 **3rd place, $2,000 Gemini Award**, lablab.build *Transforming Enterprise Through AI* (AquaLens)
 - **Finalist**, USAII Global AI Hackathon 2026, undergraduate track (IdeaForge)
 - **Top 1.5%** (40th of 2,717), Prompt Idol Pakistan 2026
 - Harvard CS50x Puzzle Day 2026: solved all puzzles · HackerRank: 500+ problems, Problem Solving 6★
